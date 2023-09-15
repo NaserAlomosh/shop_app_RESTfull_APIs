@@ -9,7 +9,7 @@ import 'package:phone_taolet_desktop/services/networking/end_point.dart';
 import 'package:phone_taolet_desktop/services/networking/get_data.dart';
 import 'package:phone_taolet_desktop/view/categories/categories.dart';
 import 'package:phone_taolet_desktop/view/favorite/favorite.dart';
-import 'package:phone_taolet_desktop/view/product/prodect.dart';
+import 'package:phone_taolet_desktop/view/product/prodect_view.dart';
 import 'package:phone_taolet_desktop/view/settings/settings.dart';
 import 'package:phone_taolet_desktop/view_model/home/home_state.dart';
 

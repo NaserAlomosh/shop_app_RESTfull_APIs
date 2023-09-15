@@ -2,7 +2,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:phone_taolet_desktop/model/home/home_model.dart';
-import 'package:phone_taolet_desktop/view/product/product_loading.dart';
+import 'package:phone_taolet_desktop/view/product/product_loading_view.dart';
 import 'package:phone_taolet_desktop/view_model/home/home_cubit.dart';
 
 import '../../classes/color_manager.dart';
